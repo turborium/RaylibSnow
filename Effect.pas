@@ -1,5 +1,7 @@
 ﻿unit Effect;
 
+{$IFDEF FPC}{$MODE DELPHIUNICODE}{$ENDIF}
+
 interface
 
 uses
